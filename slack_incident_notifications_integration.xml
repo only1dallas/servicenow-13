@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2017-04-28 20:55:43">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<application_name>Global</application_name>
+<application_scope>global</application_scope>
+<application_version/>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Slack Incident Notification Integration - by Thais Pulliam</name>
+<origin_sys_id/>
+<release_date/>
+<remote_sys_id>1aabbedbdb12320003417bedbf96192e</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>4f5edb57db92320003417bedbf96196c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_c323c3d3db52320003417bedbf9619a2</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles>admin</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 18:57:42</sys_created_on><sys_customer_update>true</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>c323c3d3db52320003417bedbf9619a2</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Slack Notifications Admin</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_application_c323c3d3db52320003417bedbf9619a2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 20:53:33</sys_updated_on><title>Slack Notifications Admin</title><view_name/></sys_app_application></record_update>]]></payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>035edb57db92320003417bedbf96196d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table/>
+<target_name>Slack Notifications Admin</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_section_0e58739fc0a8016400e2e29c13e3798d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="0e58739fc0a8016400e2e29c13e3798d" sys_domain="global" table="sys_user_group" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 18:56:40</sys_created_on><sys_id>17130f93db52320003417bedbf961913</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 18:56:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>manager</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 18:56:40</sys_created_on><sys_id>97130f93db52320003417bedbf961913</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 18:56:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 18:56:40</sys_created_on><sys_id>1b130f93db52320003417bedbf961913</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 18:56:40</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>email</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 18:56:40</sys_created_on><sys_id>9b130f93db52320003417bedbf961913</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 18:56:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>parent</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 18:56:40</sys_created_on><sys_id>1f130f93db52320003417bedbf961913</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 18:56:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>u_slack_channel</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 18:56:40</sys_created_on><sys_id>9f130f93db52320003417bedbf961913</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 18:56:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 18:56:40</sys_created_on><sys_id>13130f93db52320003417bedbf961914</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 18:56:40</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>description</element><position>7</position><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 18:56:40</sys_created_on><sys_id>93130f93db52320003417bedbf961914</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="sys_user_group" sys_domain="global" view="Default view">0e58739fc0a8016400e2e29c13e3798d</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 18:56:40</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>sys_user_group</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2005-02-14 00:50:40</sys_created_on><sys_customer_update>false</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>0e58739fc0a8016400e2e29c13e3798d</sys_id><sys_mod_count>6</sys_mod_count><sys_name>sys_user_group</sys_name><sys_overrides/><sys_package display_value="Contextual Security" source="com.glide.role_management">dad42ba38c21320092c0afb9ff6cd418</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_ui_section_0e58739fc0a8016400e2e29c13e3798d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 18:56:40</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>035edb57db92320003417bedbf961970</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table>sys_user_group</table>
+<target_name>Group</target_name>
+<type>Form Layout</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_6ca6db13db92320003417bedbf9619af</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;incident&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Slack on New Incident (to Main)&lt;/name&gt;&lt;order&gt;10&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[// ATTENTION: This BR Sends to Main Channel only. 
+(function executeRule(current, previous /*null when async*/) {
+
+// Initialize a new SlackMessage
+var slack = new SlackMessage();
+// Set up the payload
+slack.payload.text = "New: `" + current.short_description.getDisplayValue() + "`";
+slack.payload.username = "New Incident Submitted";
+slack.payload.icon_emoji = ":exclamation:";
+slack.payload.channel = gs.getProperty('slack_message.default_channel');
+
+// Define Message
+var fullMessage = '';
+if (current.assignment_group.getDisplayValue() != ""){
+	fullMessage += 'Assignment Group: ' + current.assignment_group.name + '\n';
+}
+fullMessage += 'Priority: ' + current.priority.getDisplayValue() + '\nCaller: ' + current.caller_id.getDisplayValue();
+
+// Define message colors based on priority
+var priorityColor = '';
+if (current.priority == '1'){               //Critical
+	priorityColor = '#f00303'; //red
+} else if (current.priority == '2'){        //High
+	priorityColor = '#f09203'; //orange
+} else if (current.priority == '3'){        //Moderate
+	priorityColor = '#3c9f3e'; //green
+} else {                                    //Low and Planning
+	priorityColor = '#D3D3D3'; //gray
+}	
+	
+// Set up Attachments (Full Message Details and Link)
+slack.payload.attachments = [];
+slack.payload.attachments.push({
+    'title': current.number.toString(),
+    'title_link': 'https://' + gs.getProperty('instance_name') + '.service-now.com/nav_to.do?uri=incident.do?sys_id=' + current.sys_id + '%26sysparm_stack=incident_list.do',
+    'text': fullMessage,
+	'color': priorityColor,
+});
+ 
+// Fire off the message
+slack.send();
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-04-28 20:25:40&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;6ca6db13db92320003417bedbf9619af&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;Slack on New Incident (to Main)&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_6ca6db13db92320003417bedbf9619af&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-04-28 20:41:35&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=6ca6db13db92320003417bedbf9619af"/&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>075edb57db92320003417bedbf96196f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table>incident</table>
+<target_name>Slack on New Incident (to Main)</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_ad210353db52320003417bedbf96199b</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Default destination channel for slack messages</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>slack_message.default_channel</name><read_roles/><suffix>slack_message.default_channel</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 18:48:56</sys_created_on><sys_customer_update>true</sys_customer_update><sys_id>ad210353db52320003417bedbf96199b</sys_id><sys_mod_count>0</sys_mod_count><sys_name>slack_message.default_channel</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_ad210353db52320003417bedbf96199b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 18:48:56</sys_updated_on><type>string</type><value>#general</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=ad210353db52320003417bedbf96199b"/></record_update>]]></payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>0b5edb57db92320003417bedbf96196e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table/>
+<target_name>slack_message.default_channel</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_sys_user_group_u_slack_channel</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="u_slack_channel" table="sys_user_group"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label&gt;Slack Channel&lt;/column_label&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element&gt;u_slack_channel&lt;/element&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;internal_type display_value="String"&gt;string&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;21&lt;/max_length&gt;&lt;name&gt;sys_user_group&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-04-28 18:54:58&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_id&gt;ed324793db52320003417bedbf9619a8&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Slack Channel&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_sys_user_group_u_slack_channel&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-04-28 18:54:58&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>0f5edb57db92320003417bedbf96196d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table>sys_user_group</table>
+<target_name>Group.Slack Channel</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_56b4c717db52320003417bedbf961900</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;incident&lt;/collection&gt;&lt;condition&gt;current.assignment_group.u_slack_channel.getDisplayValue() != '';&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Slack on New Incident (to Group)&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[// ATTENTION: This BR Sends to Group's Channel only. 
+(function executeRule(current, previous /*null when async*/) {
+
+	
+// Initialize a new SlackMessage
+var slack = new SlackMessage();
+ 
+// Set up the payload
+slack.payload.text = "Issue: `" + current.short_description.getDisplayValue() + "`";
+slack.payload.username = "New Incident Assigned to this Group";
+slack.payload.icon_emoji = ":exclamation:";
+slack.payload.channel = current.assignment_group.u_slack_channel.toString();
+
+	
+// Define message colors based on priority
+var priorityColor = '';
+if (current.priority == '1'){               //Critical
+	priorityColor = '#f00303'; //red
+} else if (current.priority == '2'){        //High
+	priorityColor = '#f09203'; //orange
+} else if (current.priority == '3'){        //Moderate
+	priorityColor = '#3c9f3e'; //green
+} else {                                    //Low and Planning
+	priorityColor = '#D3D3D3'; //gray
+}
+
+	
+// Set up Attachments (Full Message Details and Link)
+slack.payload.attachments = [];
+slack.payload.attachments.push({
+    'title': current.number.toString(),
+    'title_link': 'https://' + gs.getProperty('instance_name') + '.service-now.com/nav_to.do?uri=incident.do?sys_id=' + current.sys_id + '%26sysparm_stack=incident_list.do',
+    'text': 
+    	'Priority: ' + current.priority.getDisplayValue() + '\n' +
+		'Caller: ' + current.caller_id.getDisplayValue(),
+	'color': priorityColor,
+});
+ 
+// Fire off the message
+slack.send();
+
+	
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-04-28 19:16:30&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;56b4c717db52320003417bedbf961900&lt;/sys_id&gt;&lt;sys_mod_count&gt;11&lt;/sys_mod_count&gt;&lt;sys_name&gt;Slack on New Incident (to Group)&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_56b4c717db52320003417bedbf961900&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-04-28 20:39:39&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=56b4c717db52320003417bedbf961900"/&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>435edb57db92320003417bedbf96196f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table>incident</table>
+<target_name>Slack on New Incident (to Group)</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_42b18b53db52320003417bedbf9619ca</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Default Webhook Endpoint for Slack Notifications Integration</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>slack_message.default_endpoint</name><read_roles/><suffix>slack_message.default_endpoint</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 18:50:57</sys_created_on><sys_customer_update>true</sys_customer_update><sys_id>42b18b53db52320003417bedbf9619ca</sys_id><sys_mod_count>2</sys_mod_count><sys_name>slack_message.default_endpoint</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_42b18b53db52320003417bedbf9619ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 20:54:11</sys_updated_on><type>string</type><value>&lt;Replace with your Webhook Endpoint (URL value)&gt;</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=42b18b53db52320003417bedbf9619ca"/></record_update>]]></payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>475edb57db92320003417bedbf96196e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table/>
+<target_name>slack_message.default_endpoint</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_c76387d3db52320003417bedbf9619a7</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Slack Notifications Admin">c323c3d3db52320003417bedbf9619a2</application><assessment/><content_page/><device_type/><filter table="sys_script_include">name=SlackMessage^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="=" or="false" value="SlackMessage"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><link_type>DETAIL</link_type><map_page/><mobile_title>Script Include</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sys_script_include</name><order>100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 18:59:21</sys_created_on><sys_customer_update>true</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path/><sys_id>c76387d3db52320003417bedbf9619a7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Script Include</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_c76387d3db52320003417bedbf9619a7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 18:59:21</sys_updated_on><timeline_page/><title>Script Include</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>4b5edb57db92320003417bedbf96196d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table>sys_script_include</table>
+<target_name>Script Include</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_include_e4b00713db52320003417bedbf961917</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;global.SlackMessage&lt;/api_name&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;description&gt;Slack's incoming webhook connection via REST&lt;/description&gt;&lt;name&gt;SlackMessage&lt;/name&gt;&lt;script&gt;&lt;![CDATA[var SlackMessage = Class.create();
+ 
+SlackMessage.prototype = {
+    'initialize': function() {
+        if (gs.getProperty('slack_message.default_icon_url') != '') {
+            this.payload.icon_url = gs.getProperty('slack_message.default_icon_url');
+        }
+        else if (gs.getProperty('slack_message.default_icon_emoji') != '') {
+            this.payload.icon_emoji = gs.getProperty('slack_message.default_icon_emoji');
+        }
+    },
+     
+    'send': function (text, channel) {
+        // Set the text and channel (or fall back to defaults)
+        this.payload.text = text || this.payload.text;
+        this.payload.channel = channel || this.payload.channel;
+         
+        // Encode the payload as JSON
+        var SNJSON = JSON; // Workaround for JSLint warning about using JSON as a constructor
+        var myjson = new SNJSON();
+        var encoded_payload = myjson.encode(this.payload);
+         
+        // Create and send the REST Message
+        var msg = new sn_ws.RESTMessageV2();
+		msg.setEndpoint(this.endpoint);
+		msg.setHttpMethod(this.method);
+		msg.setRequestBody(encoded_payload);
+		var res = msg.execute();
+		return res;
+    },
+     
+    'endpoint': gs.getProperty('slack_message.default_endpoint'),
+    'method': 'post',
+    'payload': {
+        'channel': gs.getProperty('slack_message.default_channel'),
+        'username': gs.getProperty('slack_message.default_username'),
+        'text': '',
+        'attachments': []
+    },
+     
+    'type': 'SlackMessage'
+};]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-04-28 18:46:23&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_id&gt;e4b00713db52320003417bedbf961917&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;SlackMessage&lt;/sys_name&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_e4b00713db52320003417bedbf961917&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-04-28 18:46:23&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>4f5edb57db92320003417bedbf96196f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table/>
+<target_name>SlackMessage</target_name>
+<type>Script Include</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_31d14f53db52320003417bedbf961940</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Default User Name for Slack Messages coming from ServiceNow</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>slack_message.default_username</name><read_roles/><suffix>slack_message.default_username</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 18:51:29</sys_created_on><sys_customer_update>true</sys_customer_update><sys_id>31d14f53db52320003417bedbf961940</sys_id><sys_mod_count>0</sys_mod_count><sys_name>slack_message.default_username</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_31d14f53db52320003417bedbf961940</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 18:51:29</sys_updated_on><type>string</type><value>ServiceNow</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=31d14f53db52320003417bedbf961940"/></record_update>]]></payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>835edb57db92320003417bedbf96196e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table/>
+<target_name>slack_message.default_username</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_911a4b57db52320003417bedbf9619dd</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Slack Notifications Admin">c323c3d3db52320003417bedbf9619a2</application><assessment/><content_page/><device_type/><filter table="sys_script">nameSTARTSWITHSlack^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="Slack"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Business Rules</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sys_script</name><order>300</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 19:27:41</sys_created_on><sys_customer_update>true</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path/><sys_id>911a4b57db52320003417bedbf9619dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Business Rules</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_911a4b57db52320003417bedbf9619dd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 19:27:41</sys_updated_on><timeline_page/><title>Business Rules</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>875edb57db92320003417bedbf96196d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table>sys_script</table>
+<target_name>Business Rules</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_b98c0f17db52320003417bedbf961959</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;incident&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition table="incident"&gt;assignment_groupVALCHANGES^ORpriorityVALCHANGES^ORstateVALCHANGES^ORshort_descriptionVALCHANGES^ORdescriptionVALCHANGES^ORcommentsVALCHANGES^ORwork_notesVALCHANGES^EQ&lt;item endquery="false" field="assignment_group" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/&gt;&lt;item endquery="false" field="priority" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="false" field="state" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="false" field="short_description" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="false" field="description" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="false" field="comments" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="false" field="work_notes" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Slack on Incident Updates (to Main)&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[// ATTENTION: This BR Sends to the main channel defined in properties. 
+(function executeRule(current, previous /*null when async*/) {
+
+// Initialize a new SlackMessage
+var slack = new SlackMessage();
+	
+	
+// Define Variables for the Payload
+var newStatus = current.state.getDisplayValue();
+var oldStatus = previous.state.getDisplayValue();
+	
+	
+// Add close codes if there is one. &amp;&amp; is resolved or closed.	
+if (current.state == 6 || current.state == 7) { 
+	if (current.close_code.getDisplayValue() != ""){
+		newStatus = newStatus + " -- " + current.close_code.getDisplayValue();
+	} else if (current.close_code.getDisplayValue() == ""){
+		newStatus = newStatus;
+	}
+} 
+if (previous.state == 6 || previous.state == 7) {
+	if (previous.close_code.getDisplayValue() != ""){
+	   oldStatus = oldStatus + " -- " + previous.close_code.getDisplayValue();
+	} else if (current.close_code.getDisplayValue() == ""){
+		oldStatus = oldStatus;
+	}
+}
+	
+// Define other Variables for the Payload	
+var newPriority = current.priority.getDisplayValue();
+var oldPriority = previous.priority.getDisplayValue();
+var newGroup = current.assignment_group.getDisplayValue();
+var oldGroup = previous.assignment_group.getDisplayValue();
+var newSHDescription = current.short_description;	
+var newDescription = current.description.getDisplayValue();	
+var newWN = current.work_notes.getJournalEntry(1);	
+var newComm = current.comments.getJournalEntry(1);	
+	
+var fullMessage = "";
+
+// Add Updates to Message:
+if (current.state.changes()) {
+	fullMessage += "\nStatus changed to " + newStatus;
+} 
+	
+if (current.assignment_group.changes() &amp;&amp; oldGroup != "") {
+	fullMessage += "\nAssignment Group was " + oldGroup + ", now is " + newGroup;
+} else if (current.assignment_group.changes() &amp;&amp; oldGroup == ""){
+	fullMessage += "\nAssignment Group updated to " + newGroup;
+}
+	
+if (current.priority.changes()) {
+	fullMessage += "\nPriority was " + oldPriority + ", now is " + newPriority;
+}
+if (current.short_description.changes()) {
+	fullMessage += "\nShort Description updated to: " + newSHDescription;
+}
+if (current.description.changes()) {
+	fullMessage += "\nDescription updated to: " + newDescription;
+}
+if (current.work_notes.changes()){
+	fullMessage += "\nNew Work Note: " + newWN;
+}
+if (current.comments.changes()){
+	fullMessage += "\nNew Comment: " + newComm;
+}
+	
+	
+// Always send Status, Priority and Assignment Group information even if they don't change:
+if (!current.priority.changes() || !current.assignment_group.changes() || !current.state.changes()){
+	if (!current.state.changes()) {
+		fullMessage += "\nStatus remains " + newStatus;
+	} 
+	if (!current.assignment_group.changes()){
+		fullMessage += "\nAssignment Group remains " + newGroup;
+	} 
+	if (!current.priority.changes()){
+		fullMessage += "\nPriority remains " + newPriority;
+	}
+}
+
+	fullMessage += "\nUpdates made by " + current.sys_updated_by.getDisplayValue();
+
+	
+// Define message colors based on priority
+var priorityColor = '';
+if (current.priority == '1'){               //Critical
+	priorityColor = '#f00303'; //red
+} else if (current.priority == '2'){        //High
+	priorityColor = '#f09203'; //orange
+} else if (current.priority == '3'){        //Moderate
+	priorityColor = '#3c9f3e'; //green
+} else {                                    //Low and Planning
+	priorityColor = '#D3D3D3'; //gray
+}
+	
+	
+// Set up the payload
+slack.payload.text = "Updates on: `"+current.short_description.getDisplayValue()+"`";
+slack.payload.username = "Incident Updated";
+slack.payload.icon_emoji = ":wrench:";
+slack.payload.channel = gs.getProperty('slack_message.default_channel');
+	
+// Set up Attachments (Full Message Details and Link)	
+slack.payload.attachments = [];
+slack.payload.attachments.push({
+    'title': current.number.toString(),
+    'title_link': 'https://' + gs.getProperty('instance_name') + '.service-now.com/nav_to.do?uri=incident.do?sys_id=' + current.sys_id + '%26sysparm_stack=incident_list.do',
+    'text': fullMessage,
+    'color': priorityColor,
+});
+ 
+// Fire off
+slack.send();
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-04-28 19:43:56&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;b98c0f17db52320003417bedbf961959&lt;/sys_id&gt;&lt;sys_mod_count&gt;9&lt;/sys_mod_count&gt;&lt;sys_name&gt;Slack on Incident Updates (to Main)&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_b98c0f17db52320003417bedbf961959&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-04-28 20:41:58&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=b98c0f17db52320003417bedbf961959"/&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>8b5edb57db92320003417bedbf96196f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table>incident</table>
+<target_name>Slack on Incident Updates (to Main)</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_51d78b17db52320003417bedbf961958</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;incident&lt;/collection&gt;&lt;condition&gt;current.assignment_group.u_slack_channel.getDisplayValue() != "" &amp;amp;&amp;amp; current.assignment_group.changes()&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition table="incident"&gt;assignment_groupVALCHANGES^ORassignment_groupCHANGESFROM^EQ&lt;item endquery="false" field="assignment_group" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/&gt;&lt;item endquery="false" field="assignment_group" goto="false" newquery="false" operator="CHANGESFROM" or="true" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Slack on Incident Re-Assigned (to Group)&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[// ATTENTION: This BR sends only to group's channel. 
+
+(function executeRule(current, previous /*null when async*/) {
+	
+// Initialize a new SlackMessage
+var slack = new SlackMessage();
+	
+// Define Variables for the Payload
+var newStatus = current.state.getDisplayValue();
+var oldStatus = previous.state.getDisplayValue();
+var newPriority = current.priority.getDisplayValue();
+var oldGroup = previous.assignment_group.getDisplayValue();
+var fullMessage = "";
+	
+// Add close codes if there is one. &amp;&amp; is resolved or closed.	
+if (current.state == 6 || current.state == 7) { 
+	if (current.close_code.getDisplayValue() != ""){
+		newStatus = newStatus + " -- " + current.close_code.getDisplayValue();
+	} else if (current.close_code.getDisplayValue() == ""){
+		newStatus = newStatus;
+	}
+} 
+if (previous.state == 6 || previous.state == 7) {
+	if (previous.close_code.getDisplayValue() != ""){
+	   oldStatus = oldStatus + " -- " + previous.close_code.getDisplayValue();
+	} else if (current.close_code.getDisplayValue() == ""){
+		oldStatus = oldStatus;
+	}
+}
+
+if (oldGroup != ""){
+	fullMessage += "\nAssignment Group was " + oldGroup;
+}
+fullMessage += "\nIncident is now assigned to your group";
+fullMessage += "\nStatus is " + newStatus;
+fullMessage += "\nPriority is " + newPriority;
+fullMessage += "\nUpdates made by " + current.sys_updated_by.getDisplayValue();
+
+// Define message colors based on priority
+var priorityColor = '';
+if (current.priority == '1'){               //Critical
+	priorityColor = '#f00303'; //red
+} else if (current.priority == '2'){        //High
+	priorityColor = '#f09203'; //orange
+} else if (current.priority == '3'){        //Moderate
+	priorityColor = '#3c9f3e'; //green
+} else {                                    //Low and Planning
+	priorityColor = '#D3D3D3'; //gray
+}
+
+	
+// Set up the payload
+slack.payload.text = "Issue: `"+current.short_description.getDisplayValue()+"`";
+slack.payload.username = "Incident Re-Assigned to This Group";
+slack.payload.icon_emoji = ":ticket:";
+slack.payload.channel = current.assignment_group.u_slack_channel.toString();
+
+// Set up Attachments (Full Message Details and Link)
+slack.payload.attachments = [];	
+slack.payload.attachments.push({
+    'title': current.number.toString(),
+     'title_link': 'https://' + gs.getProperty('instance_name') + '.service-now.com/nav_to.do?uri=incident.do?sys_id=' + current.sys_id + '%26sysparm_stack=incident_list.do',
+    'text': fullMessage,
+    'color': priorityColor,
+});
+ 
+// Fire off
+slack.send();
+	
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-04-28 19:26:48&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;51d78b17db52320003417bedbf961958&lt;/sys_id&gt;&lt;sys_mod_count&gt;9&lt;/sys_mod_count&gt;&lt;sys_name&gt;Slack on Incident Re-Assigned (to Group)&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_51d78b17db52320003417bedbf961958&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-04-28 20:46:08&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=51d78b17db52320003417bedbf961958"/&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>8f5edb57db92320003417bedbf96196e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table>incident</table>
+<target_name>Slack on Incident Re-Assigned (to Group)</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_2d744fd3db52320003417bedbf961947</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Slack Notifications Admin">c323c3d3db52320003417bedbf9619a2</application><assessment/><content_page/><device_type/><filter table="sys_properties">nameSTARTSWITHslack_message.^EQ<item endquery="false" field="name" goto="false" newquery="false" operator="STARTSWITH" or="false" value="slack_message."/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Properties</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sys_properties</name><order>200</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><survey/><survey_overwrite>true</survey_overwrite><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 19:03:03</sys_created_on><sys_customer_update>true</sys_customer_update><sys_domain>global</sys_domain><sys_domain_path/><sys_id>2d744fd3db52320003417bedbf961947</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Properties</sys_name><sys_overrides/><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_app_module_2d744fd3db52320003417bedbf961947</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 19:03:03</sys_updated_on><timeline_page/><title>Properties</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>c35edb57db92320003417bedbf96196d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table>sys_properties</table>
+<target_name>Properties</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_a86a4bd7db52320003417bedbf96197f</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;false&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;true&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;incident&lt;/collection&gt;&lt;condition&gt;!current.assignment_group.changes()&lt;/condition&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition table="incident"&gt;active=true^short_descriptionVALCHANGES^ORdescriptionVALCHANGES^ORpriorityVALCHANGES^ORstateVALCHANGES^ORcommentsVALCHANGES^ORwork_notesVALCHANGES^EQ&lt;item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/&gt;&lt;item endquery="false" field="short_description" goto="false" newquery="false" operator="VALCHANGES" or="false" value=""/&gt;&lt;item endquery="false" field="description" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="false" field="priority" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="false" field="state" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="false" field="comments" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="false" field="work_notes" goto="false" newquery="false" operator="VALCHANGES" or="true" value=""/&gt;&lt;item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/&gt;&lt;/filter_condition&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Slack on Incident Updates (to Group)&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[// ATTENTION: This BR sends only to Group's Slack Channel
+(function executeRule(current, previous /*null when async*/) {
+	
+if (current.assignment_group.u_slack_channel.getDisplayValue() != "" &amp;&amp; !current.assignment_group.changes()){
+	
+// Initialize a new SlackMessage
+var slack = new SlackMessage();
+	
+// Define Variables for the Payload
+var newStatus = current.state.getDisplayValue();
+var oldStatus = previous.state.getDisplayValue();
+var newPriority = current.priority.getDisplayValue();
+var oldPriority = previous.priority.getDisplayValue();
+var newSHDescription = current.short_description;	
+var newDescription = current.description.getDisplayValue();	
+var newWN = current.work_notes.getJournalEntry(1);	
+var newComm = current.comments.getJournalEntry(1);	
+var fullMessage = "";
+	
+// Add close codes if there is one. &amp;&amp; is resolved or closed.	
+if (current.state == 6 || current.state == 7) { 
+	if (current.close_code.getDisplayValue() != ""){
+		newStatus = newStatus + " -- " + current.close_code.getDisplayValue();
+	} else if (current.close_code.getDisplayValue() == ""){
+		newStatus = newStatus;
+	}
+} 
+if (previous.state == 6 || previous.state == 7) {
+	if (previous.close_code.getDisplayValue() != ""){
+	   oldStatus = oldStatus + " -- " + previous.close_code.getDisplayValue();
+	} else if (current.close_code.getDisplayValue() == ""){
+		oldStatus = oldStatus;
+	}
+}
+	
+
+//Add Updates to Message:
+if (current.state.changes()) {
+	fullMessage += "\nStatus changed to " + newStatus;
+} 
+if (current.priority.changes()) {
+	fullMessage += "\nPriority was " + oldPriority + ", now is " + newPriority;
+}
+if (current.short_description.changes()) {
+	fullMessage += "\nShort Description updated to: " + newSHDescription;
+}
+if (current.description.changes()) {
+	fullMessage += "\nDescription updated to: " + newDescription;
+}
+if (current.work_notes.changes()){
+	fullMessage += "\nNew Work Note: " + newWN;
+}
+if (current.comments.changes()){
+	fullMessage += "\nNew Comment: " + newComm;
+}
+
+	
+// Always send priority and state information even if it doesn't change:
+if (!current.priority.changes() || !current.u_platform_ticket_resolver_group.changes() || !current.state.changes()){
+	if (!current.state.changes()) {
+		fullMessage += "\nStatus remains " + newStatus;
+	} 
+	if (!current.priority.changes()){
+		fullMessage += "\nPriority remains " + newPriority;
+	}
+}
+	
+// Re-inform that Assignment Group hasn't changed.
+fullMessage += "\nThis group is still assigned to this incident.\nUpdates made by " + current.sys_updated_by.getDisplayValue();
+
+// Define message colors based on priority
+var priorityColor = '';
+if (current.priority == '1'){               //Critical
+	priorityColor = '#f00303'; //red
+} else if (current.priority == '2'){        //High
+	priorityColor = '#f09203'; //orange
+} else if (current.priority == '3'){        //Moderate
+	priorityColor = '#3c9f3e'; //green
+} else {                                    //Low and Planning
+	priorityColor = '#D3D3D3'; //gray
+}
+
+	
+// Set up the payload
+slack.payload.text = "Issue: `"+current.short_description.getDisplayValue()+"`";
+slack.payload.username = "Incident Updated:";
+slack.payload.icon_emoji = ":wrench:";
+slack.payload.channel = current.assignment_group.u_slack_channel.toString();
+
+// Set up Attachments (Full Message Details and Link)
+slack.payload.attachments = [];
+slack.payload.attachments.push({
+    'title': current.number.toString(),
+     'title_link': 'https://' + gs.getProperty('instance_name') + '.service-now.com/nav_to.do?uri=incident.do?sys_id=' + current.sys_id + '%26sysparm_stack=incident_list.do',
+    'text': fullMessage,
+    'color': priorityColor,
+});
+ 
+// Fire off
+slack.send();
+	
+}
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2017-04-28 19:36:37&lt;/sys_created_on&gt;&lt;sys_customer_update&gt;true&lt;/sys_customer_update&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;a86a4bd7db52320003417bedbf96197f&lt;/sys_id&gt;&lt;sys_mod_count&gt;4&lt;/sys_mod_count&gt;&lt;sys_name&gt;Slack on Incident Updates (to Group)&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Global" source="global"&gt;global&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_replace_on_upgrade&gt;false&lt;/sys_replace_on_upgrade&gt;&lt;sys_scope display_value="Global"&gt;global&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_a86a4bd7db52320003417bedbf96197f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2017-04-28 20:42:14&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;after&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=a86a4bd7db52320003417bedbf96197f"/&gt;&lt;/record_update&gt;</payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>c75edb57db92320003417bedbf96196f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table>incident</table>
+<target_name>Slack on Incident Updates (to Group)</target_name>
+<type>Business Rule</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_properties_ea71c753db52320003417bedbf96193d</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties"><sys_properties action="INSERT_OR_UPDATE"><choices/><description>Icon URL or Emoji for Slack Message</description><ignore_cache>false</ignore_cache><is_private>false</is_private><name>slack_message.default_icon_url</name><read_roles/><suffix>slack_message.default_icon_url</suffix><sys_class_name>sys_properties</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 18:50:21</sys_created_on><sys_customer_update>true</sys_customer_update><sys_id>ea71c753db52320003417bedbf96193d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>slack_message.default_icon_url</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_properties_ea71c753db52320003417bedbf96193d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 18:50:21</sys_updated_on><type>string</type><value>:ticket:</value><write_roles/></sys_properties><sys_translated_text action="delete_multiple" query="documentkey=ea71c753db52320003417bedbf96193d"/></record_update>]]></payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>cb5edb57db92320003417bedbf96196e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table/>
+<target_name>slack_message.default_icon_url</target_name>
+<type>System Property</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Global">global</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_sys_user_group_u_slack_channel_en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="u_slack_channel" label="Slack Channel" language="en" table="sys_user_group"><sys_documentation action="INSERT_OR_UPDATE"><element>u_slack_channel</element><help/><hint/><label>Slack Channel</label><language>en</language><name>sys_user_group</name><plural>Slack Channels</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2017-04-28 18:54:58</sys_created_on><sys_customer_update>false</sys_customer_update><sys_id>1eb28b93db52320003417bedbf9619ab</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Slack Channel</sys_name><sys_package display_value="Global" source="global">global</sys_package><sys_policy/><sys_replace_on_upgrade>false</sys_replace_on_upgrade><sys_scope display_value="Global">global</sys_scope><sys_update_name>sys_documentation_sys_user_group_u_slack_channel_en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2017-04-28 18:54:58</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<remote_update_set display_value="Slack Incident Notification Integration - by Thais Pulliam">4f5edb57db92320003417bedbf96196c</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2017-04-28 20:55:43</sys_created_on>
+<sys_id>cf5edb57db92320003417bedbf96196d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2017-04-28 20:55:43</sys_updated_on>
+<table>sys_user_group</table>
+<target_name>Group.Slack Channel</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
